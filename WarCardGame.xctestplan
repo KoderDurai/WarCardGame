@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "2AAEB1C0-9F1F-44ED-8F50-EF5E9DE601BF",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "distributor" : "com.apple.TestFlight",
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:WarCardGame.xcodeproj",
+      "identifier" : "6A2F99972BF374EE0054A84E",
+      "name" : "WarCardGame"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
